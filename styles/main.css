@@ -1,0 +1,12 @@
+.total_container{
+    display: flex;
+    width:1200px;
+    margin:0px auto;
+    justify-content: space-around;
+    gap:10px;
+}
+
+.wrapper{
+    display: flex;
+    gap:100px;
+}
